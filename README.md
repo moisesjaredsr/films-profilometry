@@ -2,7 +2,8 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://films-profilometry.streamlit.app/)
 
-<img width="1770" height="872" alt="image" src="https://github.com/user-attachments/assets/b25ce0c8-6f6c-4a63-885a-ff557cf160ef" />
+<img width="1718" height="912" alt="image" src="https://github.com/user-attachments/assets/210268fa-b89e-4d07-b4a8-c30e1bd3eea2" />
+
 
 
 ## 📌 Overview
